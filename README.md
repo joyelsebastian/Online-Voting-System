@@ -4,7 +4,7 @@ Online Voting System is a web-based application designed to facilitate electroni
 
 # Technologies Used
 
-    Frontend : HTML , CSS
+    Frontend : HTML, CSS
     Backend : PHP
     Database : MySQL
 
